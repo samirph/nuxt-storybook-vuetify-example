@@ -1,0 +1,33 @@
+{
+  "name": "nuxt-vuetify",
+  "version": "1.0.0",
+  "description": "My classy Nuxt.js project",
+  "author": "Samir",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "test": "jest",
+    "storybook": "start-storybook"
+  },
+  "dependencies": {
+    "@storybook/vue": "^5.1.11",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-preset-vue": "^2.0.2",
+    "css-loader": "^3.2.0",
+    "nuxt": "^2.0.0",
+    "style-loader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "@vue/test-utils": "^1.0.0-beta.27",
+    "babel-jest": "^24.1.0",
+    "fibers": "^4.0.1",
+    "jest": "^24.1.0",
+    "sass": "^1.22.12",
+    "sass-loader": "^8.0.0",
+    "vue-jest": "^4.0.0-0"
+  }
+}
