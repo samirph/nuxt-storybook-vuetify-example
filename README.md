@@ -1,4 +1,4 @@
-# nuxt-vuetify
+# Nuxt + Storybook + Vuetify example
 
 > My classy Nuxt.js project
 
