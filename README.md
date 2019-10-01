@@ -1,6 +1,6 @@
 # Nuxt + Storybook + Vuetify example
 
-> My classy Nuxt.js project
+> A project I created as a reference I can remember how to configure this stack.
 
 ## Build Setup
 
